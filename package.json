@@ -1,0 +1,17 @@
+{
+  "name": "mycipher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "binascii": "0.0.1",
+    "crypto": "0.0.3",
+    "md5": "^2.0.0",
+    "mysql": "^2.10.0"
+  }
+}
